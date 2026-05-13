@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { MapPin, Briefcase, ChevronDown } from 'lucide-react';
 import { personalInfo } from '../data/portfolio';
